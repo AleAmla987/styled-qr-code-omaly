@@ -1,4 +1,4 @@
-# QR Code Styling
+# QR Code Styling Omaly
 
 JavaScript library for generating QR codes with a logo and styling.
 
