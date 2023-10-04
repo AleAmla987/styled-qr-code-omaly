@@ -1,6 +1,6 @@
 {
   "name": "@aleamla987/styled-qr-code-omaly",
-  "version": "0.0.1",
+  "version": "1.0.5",
   "description": "Add a style and an image to your QR code",
   "files": [
     "dist"
